@@ -3,13 +3,13 @@
 
 		<section class="readme__section">
 
-		<h2>What is #telbet about?</h2>
+		<h2>What is #rotbet about?</h2>
 
-		<p>Watch the Eurovision Song Contest with your friends and guess the ranking of the Grand Final in Tel Aviv. This little website helps you sorting your guesses and automatically calculates your matching score. Who’s going to win?</p>
+		<p>Watch the Eurovision Song Contest with your friends and guess the ranking of the Grand Final in Rotterdam. This little website helps you sorting your guesses and automatically calculates your matching score. Who’s going to win?</p>
 
 		<h3>Recommended setup</h3>
 
-		<p>#telbet is not a real online game, so your friends should be in the same room (party time!) and use the same device, maybe an iPad or a lightweight notebook. You should be at least two players. There’s no real limit on the number of players, but more than six or seven players at one device will be difficult to handle.</p>
+		<p>#rotbet is not a real online game, so your friends should be in the same room (party time!) and use the same device, maybe an iPad or a lightweight notebook. You should be at least two players. There’s no real limit on the number of players, but more than six or seven players at one device will be difficult to handle.</p>
 
 		<p>I recommend to let each player rearrange his or her ranking list after each song performance and – of course – during the showact before the phone voting stops.</p>
 
@@ -18,7 +18,7 @@
 		<ul>
 			<li><strong>Phase 1</strong> starts while the artists do their performances on the Eurovision stage. In this phase you can add new players, change their names, drag songs from the participants list to the guessing lists and drag the songs around, so they match your guessed order. Everything can be changed and rearranged, until the official result are being announced.</li>
 
-			<li><strong>Phase 2</strong> begins exactly when the first votes from the first country are being broadcasted. The game is then locked and you can watch how the participiants list updates itself dynamically as the votes rush in country by country (In fact, I will be personally live-transferring the given points to the #telbet web server). Your score will automatically get updated, too, so you can see immediately how good your guessing was!</li>
+			<li><strong>Phase 2</strong> begins exactly when the first votes from the first country are being broadcasted. The game is then locked and you can watch how the participiants list updates itself dynamically as the votes rush in country by country (In fact, I will be personally live-transferring the given points to the #rotbet web server). Your score will automatically get updated, too, so you can see immediately how good your guessing was!</li>
 		</ul>
 
 		<h3>And then what?</h3>
@@ -36,7 +36,7 @@
 		<ul>
 			<li><a href="mailto:gerrit@praegnanz.de">gerrit@praegnanz.de</a></li>
 			<li><a href="https://praegnanz.de">My Blog</a></li>
-			<li><a href="https://github.com/gerritvanaaken/telbet/issues">#telbet on github</a></li>
+			<li><a href="https://github.com/gerritvanaaken/rotbet/issues">#rotbet on github</a></li>
 		</ul>
 
 		<h3>Privacy information</h3>
