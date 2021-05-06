@@ -1,193 +1,285 @@
 {
 	"meta": {
 		"formatversion": "1",
-		"day": "2018-05-18",
+		"day": "2021-05-22",
 		"showtype": "Grand Final",
 		"bettingLocked": false,
-		"finished": false
+		"finished": false		
 	},
 	"songs": [
 		{
-			"country": "MLT",
+			"country": "ALB",
 			"order": 1,
 			"points": 0,
-			"title": "Chameleon",
-			"artist": "Michela"
+			"title": "Karma",
+			"artist": "Anxhela Peristeri"
 		},
 		{
-			"country": "ALB",
+			"country": "AUS",
 			"order": 2,
 			"points": 0,
-			"title": "Ktheju tokës",
-			"artist": "Jonida Maliqi"
+			"title": "Technicolour",
+			"artist": "Montaigne"
 		},
 		{
-			"country": "CZE",
+			"country": "AUT",
 			"order": 3,
 			"points": 0,
-			"title": "Friend of a Friend",
-			"artist": "Lake Malawi"
+			"title": "Amen",
+			"artist": "Vincent Bueno"
 		},
 		{
-			"country": "DEU",
+			"country": "AZE",
 			"order": 4,
 			"points": 0,
-			"title": "Sister",
-			"artist": "S!sters"
+			"title": "Mata Hari",
+			"artist": "Efendi"
 		},
 		{
-			"country": "RUS",
+			"country": "BEL",
 			"order": 5,
 			"points": 0,
-			"title": "Scream",
-			"artist": "Sergey Lazarev"
+			"title": "The Wrong Place",
+			"artist": "Hooverphonic"
 		},
 		{
-			"country": "DNK",
+			"country": "BGR",
 			"order": 6,
 			"points": 0,
-			"title": "Love Is Forever",
-			"artist": "Leonora"
+			"title": "Growing Up Is Getting Old",
+			"artist": "VICTORIA"
 		},
 		{
-			"country": "SMR",
+			"country": "HRV",
 			"order": 7,
 			"points": 0,
-			"title": "Say Na Na Na",
-			"artist": "Serhat"
-		},
-		{
-			"country": "MKD",
-			"order": 8,
-			"points": 0,
-			"title": "Proud",
-			"artist": "Tamara Todevska"
-		},
-		{
-			"country": "SWE",
-			"order": 9,
-			"points": 0,
-			"title": "Too Late For Love",
-			"artist": "John Lundvik"
-		},
-		{
-			"country": "SVN",
-			"order": 10,
-			"points": 0,
-			"title": "Sebi",
-			"artist": "Zala Kralj & Gašper Šantl"
+			"title": "Tick-Tock",
+			"artist": "Albina"
 		},
 		{
 			"country": "CYP",
-			"order": 11,
+			"order": 8,
 			"points": 0,
-			"title": "Replay",
-			"artist": "Tamta"
+			"title": "El Diablo",
+			"artist": "Elena Tsagrinou"
 		},
 		{
-			"country": "NLD",
+			"country": "CZE",
+			"order": 9,
+			"points": 0,
+			"title": "omaga",
+			"artist": "Benny Cristo"
+		},
+		{
+			"country": "DNK",
+			"order": 10,
+			"points": 0,
+			"title": "Øve Os På Hinanden",
+			"artist": "Fyr Of Flamme"
+		},
+		{
+			"country": "EST",
+			"order": 11,
+			"points": 0,
+			"title": "The Lucky One",
+			"artist": "Uku Suviste"
+		},
+		{
+			"country": "FIN",
 			"order": 12,
 			"points": 0,
-			"title": "Arcade",
-			"artist": "Duncan Laurence"
+			"title": "Dark Side",
+			"artist": "Blind Channel"
+		},
+		{
+			"country": "FRA",
+			"order": 13,
+			"points": 0,
+			"title": "Voilà",
+			"artist": "Barbara Pravi"
+		},
+		{
+			"country": "GEO",
+			"order": 14,
+			"points": 0,
+			"title": "You",
+			"artist": "Tornike Kipiani"
+		},
+		{
+			"country": "DEU",
+			"order": 15,
+			"points": 0,
+			"title": "I Don’t Feel Hate",
+			"artist": "Jendrik"
 		},
 		{
 			"country": "GRC",
-			"order": 13,
-			"points": 0,
-			"title": "Better Love",
-			"artist": "Katerine Duska"
-		},
-		{
-			"country": "ISR",
-			"order": 14,
-			"points": 0,
-			"title": "Home",
-			"artist": "Kobi Marimi"
-		},
-		{
-			"country": "NOR",
-			"order": 15,
-			"points": 0,
-			"title": "Spirit in the Sky",
-			"artist": "KEiiNO"
-		},
-		{
-			"country": "GBR",
 			"order": 16,
 			"points": 0,
-			"title": "Bigger Than Us",
-			"artist": "Michael Rice"
+			"title": "Last Dance",
+			"artist": "Stefania"
 		},
 		{
 			"country": "ISL",
 			"order": 17,
 			"points": 0,
-			"title": "Hatrið mun sigra",
-			"artist": "Hatari"
+			"title": "10 Years",
+			"artist": "Daði og Gagnamagnið"
 		},
 		{
-			"country": "EST",
+			"country": "IRL",
 			"order": 18,
 			"points": 0,
-			"title": "Storm",
-			"artist": "Victor Crone"
+			"title": "MAPS",
+			"artist": "Lesley Roy"
 		},
 		{
-			"country": "BLR",
+			"country": "ISR",
 			"order": 19,
 			"points": 0,
-			"title": "Like It",
-			"artist": "ZENA"
-		},
-		{
-			"country": "AZE",
-			"order": 20,
-			"points": 0,
-			"title": "Truth",
-			"artist": "Chingiz"
-		},
-		{
-			"country": "FRA",
-			"order": 21,
-			"points": 0,
-			"title": "Roi",
-			"artist": "Bilal Hassani"
+			"title": "Set Me Free",
+			"artist": "Eden Alene"
 		},
 		{
 			"country": "ITA",
+			"order": 20,
+			"points": 0,
+			"title": "Zitti E Buoni",
+			"artist": "Måneskin"
+		},
+		{
+			"country": "LVA",
+			"order": 21,
+			"points": 0,
+			"title": "The Moon Is Rising",
+			"artist": "Samanta Tīna"
+		},
+		{
+			"country": "LTU",
 			"order": 22,
 			"points": 0,
-			"title": "Soldi",
-			"artist": "Mahmood"
+			"title": "Discoteque",
+			"artist": "The Roop"
+		},
+		{
+			"country": "MLT",
+			"order": 23,
+			"points": 0,
+			"title": "Je Me Casse",
+			"artist": "Destiny"
+		},
+		{
+			"country": "MDA",
+			"order": 24,
+			"points": 0,
+			"title": "SUGAR",
+			"artist": "Natalia Gordienko"
+		},
+		{
+			"country": "MKD",
+			"order": 25,
+			"points": 0,
+			"title": "Here I Stand",
+			"artist": "Vasil"
+		},
+		{
+			"country": "NOR",
+			"order": 26,
+			"points": 0,
+			"title": "Fallen Angel",
+			"artist": "TIX"
+		},
+		{
+			"country": "POL",
+			"order": 27,
+			"points": 0,
+			"title": "The Ride",
+			"artist": "RAFAŁ"
+		},
+		{
+			"country": "PRT",
+			"order": 28,
+			"points": 0,
+			"title": "Love Is On My Side",
+			"artist": "The Black Mamba"
+		},
+		{
+			"country": "ROU",
+			"order": 29,
+			"points": 0,
+			"title": "Amnesia",
+			"artist": "ROXEN"
+		},
+		{
+			"country": "RUS",
+			"order": 30,
+			"points": 0,
+			"title": "Russian Woman",
+			"artist": "Manizha"
+		},
+		{
+			"country": "SMR",
+			"order": 31,
+			"points": 0,
+			"title": "Adrenalina",
+			"artist": "Senhit"
 		},
 		{
 			"country": "SRB",
-			"order": 23,
+			"order": 32,
 			"points": 0,
-			"title": "Kruna",
-			"artist": "Nevena Božović"
+			"title": "Loco Loco",
+			"artist": "Hurricane"
 		},
 		{
-			"country": "CHE",
-			"order": 24,
+			"country": "SVN",
+			"order": 33,
 			"points": 0,
-			"title": "She Got Me",
-			"artist": "Luca Hänni"
-		},
-		{
-			"country": "AUS",
-			"order": 25,
-			"points": 0,
-			"title": "Zero Gravity",
-			"artist": "Kate Miller-Heidke"
+			"title": "Amen",
+			"artist": "Ana Soklič"
 		},
 		{
 			"country": "ESP",
-			"order": 26,
+			"order": 34,
 			"points": 0,
-			"title": "La Venda",
-			"artist": "Miki"
+			"title": "Voy A Quedarme",
+			"artist": "Blas Cantó"
+		},
+		{
+			"country": "SWE",
+			"order": 35,
+			"points": 0,
+			"title": "Voices",
+			"artist": "Tusse"
+		},
+		{
+			"country": "CHE",
+			"order": 36,
+			"points": 0,
+			"title": "Tout l'Univers",
+			"artist": "Gjon's Tears"
+		},
+		{
+			"country": "NLD",
+			"order": 37,
+			"points": 0,
+			"title": "Birth Of A New Age",
+			"artist": "Jeangu Macrooy"
+		},
+		{
+			"country": "UKR",
+			"order": 38,
+			"points": 0,
+			"title": "Shum",
+			"artist": "Go_A"
+		},
+		{
+			"country": "GBR",
+			"order": 39,
+			"points": 0,
+			"title": "Embers",
+			"artist": "James Newman"
 		}
+		
 	]
 }
