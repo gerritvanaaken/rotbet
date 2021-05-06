@@ -39,11 +39,11 @@
 			<li><a href="https://github.com/gerritvanaaken/rotbet/issues">#rotbet on github</a></li>
 		</ul>
 
-		<h3>Privacy information</h3>
+		<h3>Privacy/Cookie information</h3>
 
-		<p>I do not collect personal information about the visitors of this website. All connections are encrypted via SSL. The Apache server logfiles (written by HostEurope) do not contain IP addresses at all.</p>
+		<p>I do not collect personal information about the visitors of this website. All connections are encrypted via SSL. The Apache server logfiles (written by All Inkl Webhosting) do not contain IP addresses at all.</p>
 
-		<p>This websites makes use of cookies. These are small bits of memory within your local browser, where the current player names and song orders are stored. This information is not being accessed, stored or processed by the web server – they remain completely local. They are only used to restore the status of your game when you accidentally left the website.</p>
+		<p>This websites does not make use of Cookies.</p>
 
 	</section>
 
