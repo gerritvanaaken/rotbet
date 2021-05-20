@@ -1,193 +1,193 @@
 {
 	"meta": {
 		"formatversion": "1",
-		"day": "2018-05-18",
+		"day": "2021-05-22",
 		"showtype": "Grand Final",
 		"bettingLocked": false,
-		"finished": false
+		"finished": false		
 	},
 	"songs": [
 		{
-			"country": "MLT",
+			"country": "GBR",
 			"order": 1,
 			"points": 0,
-			"title": "Chameleon",
-			"artist": "Michela"
-		},
-		{
-			"country": "ALB",
-			"order": 2,
-			"points": 0,
-			"title": "Ktheju tokës",
-			"artist": "Jonida Maliqi"
-		},
-		{
-			"country": "CZE",
-			"order": 3,
-			"points": 0,
-			"title": "Friend of a Friend",
-			"artist": "Lake Malawi"
-		},
-		{
-			"country": "DEU",
-			"order": 4,
-			"points": 0,
-			"title": "Sister",
-			"artist": "S!sters"
-		},
-		{
-			"country": "RUS",
-			"order": 5,
-			"points": 0,
-			"title": "Scream",
-			"artist": "Sergey Lazarev"
-		},
-		{
-			"country": "DNK",
-			"order": 6,
-			"points": 0,
-			"title": "Love Is Forever",
-			"artist": "Leonora"
-		},
-		{
-			"country": "SMR",
-			"order": 7,
-			"points": 0,
-			"title": "Say Na Na Na",
-			"artist": "Serhat"
-		},
-		{
-			"country": "MKD",
-			"order": 8,
-			"points": 0,
-			"title": "Proud",
-			"artist": "Tamara Todevska"
-		},
-		{
-			"country": "SWE",
-			"order": 9,
-			"points": 0,
-			"title": "Too Late For Love",
-			"artist": "John Lundvik"
-		},
-		{
-			"country": "SVN",
-			"order": 10,
-			"points": 0,
-			"title": "Sebi",
-			"artist": "Zala Kralj & Gašper Šantl"
-		},
-		{
-			"country": "CYP",
-			"order": 11,
-			"points": 0,
-			"title": "Replay",
-			"artist": "Tamta"
-		},
-		{
-			"country": "NLD",
-			"order": 12,
-			"points": 0,
-			"title": "Arcade",
-			"artist": "Duncan Laurence"
-		},
-		{
-			"country": "GRC",
-			"order": 13,
-			"points": 0,
-			"title": "Better Love",
-			"artist": "Katerine Duska"
-		},
-		{
-			"country": "ISR",
-			"order": 14,
-			"points": 0,
-			"title": "Home",
-			"artist": "Kobi Marimi"
-		},
-		{
-			"country": "NOR",
-			"order": 15,
-			"points": 0,
-			"title": "Spirit in the Sky",
-			"artist": "KEiiNO"
-		},
-		{
-			"country": "GBR",
-			"order": 16,
-			"points": 0,
-			"title": "Bigger Than Us",
-			"artist": "Michael Rice"
-		},
-		{
-			"country": "ISL",
-			"order": 17,
-			"points": 0,
-			"title": "Hatrið mun sigra",
-			"artist": "Hatari"
-		},
-		{
-			"country": "EST",
-			"order": 18,
-			"points": 0,
-			"title": "Storm",
-			"artist": "Victor Crone"
-		},
-		{
-			"country": "BLR",
-			"order": 19,
-			"points": 0,
-			"title": "Like It",
-			"artist": "ZENA"
-		},
-		{
-			"country": "AZE",
-			"order": 20,
-			"points": 0,
-			"title": "Truth",
-			"artist": "Chingiz"
-		},
-		{
-			"country": "FRA",
-			"order": 21,
-			"points": 0,
-			"title": "Roi",
-			"artist": "Bilal Hassani"
-		},
-		{
-			"country": "ITA",
-			"order": 22,
-			"points": 0,
-			"title": "Soldi",
-			"artist": "Mahmood"
-		},
-		{
-			"country": "SRB",
-			"order": 23,
-			"points": 0,
-			"title": "Kruna",
-			"artist": "Nevena Božović"
-		},
-		{
-			"country": "CHE",
-			"order": 24,
-			"points": 0,
-			"title": "She Got Me",
-			"artist": "Luca Hänni"
-		},
-		{
-			"country": "AUS",
-			"order": 25,
-			"points": 0,
-			"title": "Zero Gravity",
-			"artist": "Kate Miller-Heidke"
+			"title": "Embers",
+			"artist": "James Newman"
 		},
 		{
 			"country": "ESP",
+			"order": 2,
+			"points": 0,
+			"title": "Voy A Quedarme",
+			"artist": "Blas Cantó"
+		},
+		{
+			"country": "ISR",
+			"order": 3,
+			"points": 0,
+			"title": "Set Me Free",
+			"artist": "Eden Alene"
+		},
+		{
+			"country": "RUS",
+			"order": 4,
+			"points": 0,
+			"title": "Russian Woman",
+			"artist": "Manizha"
+		},
+		{
+			"country": "MLT",
+			"order": 5,
+			"points": 0,
+			"title": "Je Me Casse",
+			"artist": "Destiny"
+		},
+		{
+			"country": "CYP",
+			"order": 6,
+			"points": 0,
+			"title": "El Diablo",
+			"artist": "Elena Tsagrinou"
+		},
+		{
+			"country": "BEL",
+			"order": 7,
+			"points": 0,
+			"title": "The Wrong Place",
+			"artist": "Hooverphonic"
+		},
+		{
+			"country": "SRB",
+			"order": 8,
+			"points": 0,
+			"title": "Loco Loco",
+			"artist": "Hurricane"
+		},
+		{
+			"country": "PRT",
+			"order": 9,
+			"points": 0,
+			"title": "Love Is On My Side",
+			"artist": "The Black Mamba"
+		},
+		{
+			"country": "ISL",
+			"order": 10,
+			"points": 0,
+			"title": "10 Years",
+			"artist": "Daði og Gagnamagnið"
+		},
+		{
+			"country": "GRC",
+			"order": 11,
+			"points": 0,
+			"title": "Last Dance",
+			"artist": "Stefania"
+		},
+		{
+			"country": "ALB",
+			"order": 12,
+			"points": 0,
+			"title": "Karma",
+			"artist": "Anxhela Peristeri"
+		},
+		{
+			"country": "CHE",
+			"order": 13,
+			"points": 0,
+			"title": "Tout l'Univers",
+			"artist": "Gjon's Tears"
+		},
+		{
+			"country": "ITA",
+			"order": 14,
+			"points": 0,
+			"title": "Zitti E Buoni",
+			"artist": "Måneskin"
+		},
+		{
+			"country": "DEU",
+			"order": 15,
+			"points": 0,
+			"title": "I Don’t Feel Hate",
+			"artist": "Jendrik"
+		},
+		{
+			"country": "FRA",
+			"order": 16,
+			"points": 0,
+			"title": "Voilà",
+			"artist": "Barbara Pravi"
+		},
+		{
+			"country": "NLD",
+			"order": 17,
+			"points": 0,
+			"title": "Birth Of A New Age",
+			"artist": "Jeangu Macrooy"
+		},
+		{
+			"country": "NOR",
+			"order": 18,
+			"points": 0,
+			"title": "Fallen Angel",
+			"artist": "TIX"
+		},
+		{
+			"country": "AZE",
+			"order": 19,
+			"points": 0,
+			"title": "Mata Hari",
+			"artist": "Efendi"
+		},
+		{
+			"country": "LTU",
+			"order": 20,
+			"points": 0,
+			"title": "Discoteque",
+			"artist": "The Roop"
+		},
+		{
+			"country": "SWE",
+			"order": 21,
+			"points": 0,
+			"title": "Voices",
+			"artist": "Tusse"
+		},
+		{
+			"country": "UKR",
+			"order": 22,
+			"points": 0,
+			"title": "Shum",
+			"artist": "Go_A"
+		},
+		{
+			"country": "BGR",
+			"order": 23,
+			"points": 0,
+			"title": "Growing Up Is Getting Old",
+			"artist": "VICTORIA"
+		},
+		{
+			"country": "MDA",
+			"order": 24,
+			"points": 0,
+			"title": "SUGAR",
+			"artist": "Natalia Gordienko"
+		},
+		{
+			"country": "SMR",
+			"order": 25,
+			"points": 0,
+			"title": "Adrenalina",
+			"artist": "Senhit"
+		},
+		{
+			"country": "FIN",
 			"order": 26,
 			"points": 0,
-			"title": "La Venda",
-			"artist": "Miki"
+			"title": "Dark Side",
+			"artist": "Blind Channel"
 		}
 	]
 }
